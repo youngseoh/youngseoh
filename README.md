@@ -1,6 +1,6 @@
 - 👋 Hi, I’m youngseoh ( HWANG YOUNG SEO )
 - 👀 I’m interested in coding and travel
-- 🌱 I’m currently learning computer science
+- 🌱 I’m learning computer science
 - 📫 How to reach me youngseoh@gmail.com
 
 <!---
