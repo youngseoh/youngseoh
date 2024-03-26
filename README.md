@@ -1,7 +1,6 @@
-- 👋 Hi, I’m youngseoh ( HWANG YOUNG SEO )
-- 👀 I’m interested in coding and travel
-- 🌱 I’m learning computer science
-- 📫 How to reach me youngseoh@gmail.com
+- 👋 Hi, I’m Hwang Young Seo 
+- 👀 I’m majoring Artificial Intelligence Engineering and Statistics at Sookmyung Women's University. 
+- 📫 How to reach me youngseoh6@gmail.com
 
 <!---
 youngseoh/youngseoh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
